@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>MSIDA_65_jpg.rf.8599285fb8aede4e614453018924afe7.jpg</filename>
+	<path>MSIDA_65_jpg.rf.8599285fb8aede4e614453018924afe7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Organic Waste -White Bag-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>217</xmax>
+			<ymin>506</ymin>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Organic Waste -White Bag-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>91</xmin>
+			<xmax>256</xmax>
+			<ymin>438</ymin>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Organic Waste -White Bag-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>396</xmin>
+			<xmax>473</xmax>
+			<ymin>181</ymin>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

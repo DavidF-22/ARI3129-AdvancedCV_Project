@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>MSIDA_124_jpg.rf.c7aeeb0fe3a89181edeb0c1d90e22e8d.jpg</filename>
+	<path>MSIDA_124_jpg.rf.c7aeeb0fe3a89181edeb0c1d90e22e8d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Organic Waste -White Bag-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>197</xmin>
+			<xmax>373</xmax>
+			<ymin>230</ymin>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

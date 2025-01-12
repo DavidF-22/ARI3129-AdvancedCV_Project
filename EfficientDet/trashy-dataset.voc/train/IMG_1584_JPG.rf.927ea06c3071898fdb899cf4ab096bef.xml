@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_1584_JPG.rf.927ea06c3071898fdb899cf4ab096bef.jpg</filename>
+	<path>IMG_1584_JPG.rf.927ea06c3071898fdb899cf4ab096bef.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mixed Waste -Black Bag-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>251</xmin>
+			<xmax>490</xmax>
+			<ymin>158</ymin>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mixed Waste -Black Bag-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>422</xmin>
+			<xmax>499</xmax>
+			<ymin>241</ymin>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

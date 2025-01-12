@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_2014_JPG.rf.4ea4cae523d69d8f700c5dd0cfedf275.jpg</filename>
+	<path>IMG_2014_JPG.rf.4ea4cae523d69d8f700c5dd0cfedf275.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Recycled Waste -Grey or Green Bag-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>35</xmin>
+			<xmax>276</xmax>
+			<ymin>247</ymin>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Recycled Waste -Grey or Green Bag-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>113</xmin>
+			<xmax>279</xmax>
+			<ymin>105</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Other</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>66</xmin>
+			<xmax>175</xmax>
+			<ymin>161</ymin>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

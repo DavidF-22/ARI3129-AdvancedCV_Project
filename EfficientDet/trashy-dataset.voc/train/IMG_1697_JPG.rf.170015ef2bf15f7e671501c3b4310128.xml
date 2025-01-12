@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_1697_JPG.rf.170015ef2bf15f7e671501c3b4310128.jpg</filename>
+	<path>IMG_1697_JPG.rf.170015ef2bf15f7e671501c3b4310128.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Organic Waste -White Bag-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>208</xmin>
+			<xmax>361</xmax>
+			<ymin>287</ymin>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

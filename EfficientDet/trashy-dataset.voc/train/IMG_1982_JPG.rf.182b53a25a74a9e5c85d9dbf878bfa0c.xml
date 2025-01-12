@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_1982_JPG.rf.182b53a25a74a9e5c85d9dbf878bfa0c.jpg</filename>
+	<path>IMG_1982_JPG.rf.182b53a25a74a9e5c85d9dbf878bfa0c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Recycled Waste -Grey or Green Bag-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>198</xmin>
+			<xmax>401</xmax>
+			<ymin>89</ymin>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

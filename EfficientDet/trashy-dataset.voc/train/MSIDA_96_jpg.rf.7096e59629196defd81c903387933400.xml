@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>MSIDA_96_jpg.rf.7096e59629196defd81c903387933400.jpg</filename>
+	<path>MSIDA_96_jpg.rf.7096e59629196defd81c903387933400.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mixed Waste -Black Bag-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>227</xmin>
+			<xmax>324</xmax>
+			<ymin>170</ymin>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>
