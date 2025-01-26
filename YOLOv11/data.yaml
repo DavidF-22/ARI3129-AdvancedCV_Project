@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Mixed Waste -Black Bag-', 'Organic Waste -White Bag-', 'Other', 'Recycled Waste -Grey or Green Bag-']
+
+roboflow:
+  workspace: ari3129-advancedcv-project
+  project: ari3129-advancedcv_project
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ari3129-advancedcv-project/ari3129-advancedcv_project/dataset/4
